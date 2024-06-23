@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **React, Php**
 
-- 👨‍💻 All of my projects are available at [dhyazilim.com](dhyazilim.com)
+- 👨‍💻 All of my projects are available at [https://dhyazilim.com](https://dhyazilim.com)
 
-- 📝 I regularly write articles on [sedatdogan.net](sedatdogan.net)
+- 📝 I regularly write articles on [https://sedatdogan.net](https://sedatdogan.net)
 
 - 💬 Ask me about **Php, React, Css, Js**
 
